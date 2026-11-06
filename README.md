@@ -1,2 +1,2 @@
 # CMGResourceMap
-Chotic Mind Atlas Resource Map
+Chaotic Mind Atlas Resource Map
